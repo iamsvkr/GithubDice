@@ -1,1 +1,0 @@
-export default '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';
